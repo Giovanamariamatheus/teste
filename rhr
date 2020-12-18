@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>desenvolvimento web</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1> DERMOCOSMÉTICOS E COSMÉTICOS</h1>
+    <br>
+    <h2> Você sabe o que são cosméticos, dermocosméticos e a diferença entre eles?  Se você chegou até aqui, provavelmente procura saber o que são e suas diferenças. E aqui você encontrará suas respostas! </h2>
+  
+  <h3> Cosméticos:</h3>
+  <p> Vamos iniciar falando um pouco sobre os cosméticos. Atualmente no mercado existe uma variada gama de cosméticos para as mais variadas regiões do corpo, tipos de pele e necessidades. Eles são utilizados no exterior da pele de forma complementar aos dermocosméticos e atua nas camadas mais superficiais da pele e causando um efeito momentâneo, porém nada além disso. Um grande exemplo muito comum, utilizado a muitos anos pelas mulheres, são as maquiagens, por exemplo um corretivo que a pessoa passa nas suas olheiras, o mesmo camufla o aspecto da pele, mas não tem resultado infinito. Cosméticos como: sabonete, perfume, condicionador, maquiagens, creme para cabelo são denominados pela ANVISA como grau 1. </p>
+
+<h3> Dermocosméticos: </h3>
+<p>Já os dermocosméticos são produtos com uma fórmula mais específica, que apresentam ativos farmacológicos, vindos de estudos específicos e cientificamente comprovados na sua composição e que além de possuirem efeito superficial, tratam as camadas mais profundas da pele, ajudando no tratamento da mesma. São comumente utilizados para tratamento de pele, porém podem ser utilizados para gordura localizada, celulite, estrias, acne, diminuir o aspecto de cicatrizes. Diferente dos cosméticos, essa categoria é classificada pela ANVISA como grau 2, ou seja, como dito anteriormente, os dermocosméticos são testados por laboratório e pesquisados para que tragam melhores resultados para pessoa, além de garantir mais segurança ao consumidor final.  </p>
+
+<h3>Afinal, qual devo usar na minha pele?</h3>
+<p>Ao ler esses parágrafos, você deve ter se perguntando, então qual usar na sua pele. Enfim o que podemos te afirmar é que, depende! Você necessariamente, não precisa escolher entre um ou outro, como dito antes, cada um possui sua função, um tratamento mais superficialmente e o outro funcionando quase como medicamentos da pele. Porém se você deseja um resultado imediato, é recomendado que se use os cosméticos, mas sempre procurando utilizar, se preferível de forma simultânea, os dermocosméticos, pois são eles que lhe proporcionaram um efeito a longo prazo e realmente vão tratar seu problema de dentro para fora. Um exemplo, é a preparação de pele antes de fazer uma maquiagem, para que sua pele fique com um aspecto menos poroso e aspero, é aconselhável que você utilize um dermocosméticos que irá auxiliar na redução e desobstrução dos poros e após isso, para a maquiagem desejada por cima, que trará resultados imediatos, mas que se utilizar o dermocosméticos  a longo prazo, poderá deixar sua pele com uma textura melhor.</p>
+
+<h3>Próximo passo...</h3>
+<p>Se você chegou até aqui, é porque realmente o assunto lhe interessa, pensando nisso, deixaremos um botão  a seguir e a partir dele você poderá ler algumas dicas para manter uma pele saudável com o auxílio de dermocosméticos e cosméticos.</p>
+
+
+  
+    </body>
+  
+
+
+</html>
